@@ -41,8 +41,9 @@ Business questions answered with SQL, including:
 
 ## 📈 Dashboard
 
-![alt text](screen_dashboard1.png)
-![alt text](screen_dashboard2.png)
+<img width="1587" height="758" alt="Screenshot 2026-09-18 095401" src="https://github.com/user-attachments/assets/22240a7d-fafc-4d5b-bbcf-390807250555" />
+
+<img width="1245" height="657" alt="Screenshot 2026-09-18 095510" src="https://github.com/user-attachments/assets/deb36553-fe65-442b-8347-3c0602350631" />
 
 
 ### Key Insights
