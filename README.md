@@ -60,5 +60,5 @@ Business questions answered with SQL, including:
 ├── Customer_Shopping_Behavior_Analysis.ipynb   # Python cleaning notebook
 ├── analysis.sql                        # SQL analysis queries
 ├── dashboard.pbix                      # Power BI dashboard
-└── images/                             # Dashboard screenshots
+└── image_screen/                             # Dashboard screenshots
 ```
